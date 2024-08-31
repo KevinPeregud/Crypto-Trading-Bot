@@ -1,5 +1,8 @@
 # Crypto-Trading-Bot
 Crypto Trading Bot
+
+***FOR ENTERTAINMENT PURPOSES ONLY***
+
 Summary of the Cryptocurrency Trading Bot with Risk Management
 This cryptocurrency trading bot is designed to execute automated trades on a platform like Binance using a combination of technical indicators and risk management strategies. The key components and features of the bot are outlined below:
 
@@ -37,6 +40,8 @@ The bot operates in an infinite loop, checking the market conditions at regular 
 
 Summary:
 This trading bot integrates technical analysis with robust risk management to execute trades in a disciplined manner. It ensures that each trade is based on a confluence of indicators, and it actively manages risk by adjusting position sizes and setting stop-loss and take-profit levels. This helps minimize losses while allowing for profitable trades, making it a powerful tool for automated cryptocurrency trading.
+
+***FOR ENTERTAINMENT PURPOSES ONLY***
 
 
 
